@@ -1,3 +1,7 @@
+#非常感谢大佬的分享 这里只是存放一下工程，防止以后忘记
+#原地址是：https://github.com/mikumifa/biliTickerBuy
+
+
 <div align="center">
   <a href="https://github.com/mikumifa/biliTickerBuy" target="_blank">
     <img width="160" src="assets/icon.ico" alt="logo">
